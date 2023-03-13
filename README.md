@@ -1,1 +1,1 @@
-This Repository Contains Pyhton Codes from Hackerrank Python Module
+This Repository Contains Python Codes from Hackerrank Python Module
